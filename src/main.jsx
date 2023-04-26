@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.min.js'
 
 import { BrowserRouter } from 'react-router-dom'
-import { Routes } from "./assets/Routes/Rutas"
+import { Rutas } from "./assets/Routes/Rutas"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
